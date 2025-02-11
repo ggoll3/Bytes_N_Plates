@@ -1,5 +1,5 @@
 
-
+#Beginning of the Employee Classes the Restruant must be built to populate methods and further define the classes. 
 # Base class for all employees.
 class Employee:
     def __init__(self, name):
